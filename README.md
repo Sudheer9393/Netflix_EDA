@@ -54,7 +54,3 @@ Netflix focuses on:
 - Increasing content volume rapidly
 - Targeting adult audiences
 - Optimizing engagement through movie-based content
-
----
-
-## 📂 Project Structure
